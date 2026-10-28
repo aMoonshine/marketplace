@@ -1,7 +1,7 @@
 {
   "id": "thread-glow",
   "displayName": "Thread Glow",
-  "description": "Find threads after their agents stop working. See an orange highlight in the thread list and on open split-pane titles. Select a thread to clear its highlight.",
+  "description": "Find threads after their agents stop working. See an orange highlight in the thread list and on open split-pane titles. Select a thread to clear its highlight. Middle-click an open pane title to close it.",
   "icon": {
     "url": "./icons/thread-glow-aefc1716.svg"
   },
